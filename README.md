@@ -1,4 +1,5 @@
 #Angelhack 2019
+
 Android App (Irrigation 4.0) developed with AWS Amplify framework.
 
 Tech stacks involved here are
@@ -8,6 +9,7 @@ AWS IoT core
 Amazon Cognito service
 AWS Lambda function using NodeJs
 MQTT Communication protocol
+
 Android
 Hardware Used:
 
